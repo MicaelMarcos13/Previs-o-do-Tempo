@@ -14,7 +14,7 @@
 </ul>
 <br>
 <br>
-<img src="">
+<img src="https://github.com/MicaelMarcos13/Previsao-do-Tempo/blob/master/img.png?raw=true">
 <br>
 <br>
-<a href="https://micaelmarcos13.github.io/Previsao-do-Tempo/">Previsão do Tempo</a>
+<h2>Avaliem lá.<a href="https://micaelmarcos13.github.io/Previsao-do-Tempo/"> Previsão do Tempo</a></h2>
